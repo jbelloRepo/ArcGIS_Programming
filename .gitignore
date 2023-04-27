@@ -4,3 +4,4 @@
 # But not these files...
 !.gitignore
 !bufferRoads.py
+!git.txt
